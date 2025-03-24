@@ -1,6 +1,8 @@
 import pytest
 from unittest.mock import patch
+import io
 from extract.data_extractor import DataExtractor
+import pandas as pd
 
 @pytest.fixture
 def extractor():
