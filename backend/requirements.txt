@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pandas
+sqlalchemy
+psycopg2
+redis
+boto3
+apache-airflow
+pytest
+pytest-mock
+slack_sdk
+tenacity
+pyspark 
+prometheus_client

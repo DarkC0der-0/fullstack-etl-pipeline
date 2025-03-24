@@ -1,0 +1,6 @@
+apache-airflow[postgres,redis]==2.5.1
+requests
+pandas
+boto3
+sqlalchemy
+psycopg2
